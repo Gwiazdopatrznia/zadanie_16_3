@@ -1,5 +1,5 @@
-build/
-app.bundle.js*
+#build
+build/app.bundle.js
 
 # JS
 build.js
