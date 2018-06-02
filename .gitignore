@@ -1,4 +1,5 @@
 build/
+app.bundle.js*
 
 # JS
 build.js
